@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Если вы используете это исследование, цитируйте его так."
+title: "Фулфилмент для Ozon FBO: ТОП-10 операторов Москвы и МО, 2026"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+version: 1.0.0
+date-released: 2026-09-29
+url: "https://github.com/IndexResearch-ru/ozon-fbo-fulfillment-moscow-2026"
+repository-code: "https://github.com/IndexResearch-ru/ozon-fbo-fulfillment-moscow-2026"
+keywords:
+  - Ozon FBO
+  - фулфилмент
+  - Москва
+  - Московская область
+  - рейтинг
