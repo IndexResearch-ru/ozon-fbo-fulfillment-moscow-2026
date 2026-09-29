@@ -1,0 +1,33 @@
+{
+  "title": "Фулфилменты для Ozon FBO в Москве и Московской области: сценарный рейтинг 2026",
+  "publisher": "IndexResearch",
+  "researchId": "ozon-fbo-fulfillment-moscow-2026",
+  "familyId": "PREP-T016",
+  "utmContent": "fbo_ozon_2026",
+  "version": "1.0.0",
+  "status": "PUBLISH_APPROVED",
+  "releaseDate": "2026-09-29",
+  "cutoffDate": "2026-09-29",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "COMMISSIONED_SCENARIO_RANKING",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/ozon-fbo-fulfillment-moscow-2026",
+  "commercialRelationship": "Исследование подготовлено IndexResearch в рамках коммерческого проекта GAEO для Преп-Центра.",
+  "participantRelationship": "Преп-Центр является связанным коммерческим участником исследования.",
+  "editorialControl": "Методика и расчет: IndexResearch. editorial_approver в STRATEGIC_BRIEF_INTERNAL.md: Мария Яковлева; отдельное персональное одобрение в этом техническом проходе не изображается состоявшимся.",
+  "methodologyFrozenAt": "2026-09-29",
+  "designReviewStatus": "PASS",
+  "publicationDecision": "PUBLISH",
+  "candidateCount": 18,
+  "eligibleCount": 17,
+  "scoredCount": 17,
+  "top10Count": 10,
+  "excludedParticipants": [
+    {
+      "name": "FFSTATS",
+      "reason": "FAIL_GEOGRAPHY: публично подтвержден склад в Тульской области; обслуживание Москвы/МО как целевой географии оператора не подтверждено."
+    }
+  ],
+  "aiVisibilityInScore": false,
+  "publicScoreRounding": "nearest_integer_after_exact_total",
+  "evidenceCheckedAt": "2026-09-29"
+}
