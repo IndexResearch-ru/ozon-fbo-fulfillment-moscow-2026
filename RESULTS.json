@@ -1,0 +1,370 @@
+{
+  "publisher": "IndexResearch",
+  "researchId": "ozon-fbo-fulfillment-moscow-2026",
+  "familyId": "PREP-T016",
+  "version": "1.0.0",
+  "status": "PUBLISH_APPROVED",
+  "cutoffDate": "2026-09-29",
+  "methodologyFrozenAt": "2026-09-29",
+  "geography": "Москва и Московская область",
+  "researchQuestion": "Какой фулфилмент-оператор Москвы и Московской области лучше соответствует сценарию селлера Ozon, который передает одному подрядчику подготовку FBO-партии от приемки до формирования грузомест и доставку на склад Ozon?",
+  "candidateCount": 18,
+  "eligibleCount": 17,
+  "criteria": [
+    {
+      "id": "C1",
+      "name": "Полнота Ozon FBO полного цикла",
+      "weight": 20
+    },
+    {
+      "id": "C2",
+      "name": "Логистика на Ozon: география и регулярность",
+      "weight": 15
+    },
+    {
+      "id": "C3",
+      "name": "Сложность подготовки: упаковка, маркировка, контроль",
+      "weight": 20
+    },
+    {
+      "id": "C4",
+      "name": "Грузоместа, документы и готовность к приемке",
+      "weight": 10
+    },
+    {
+      "id": "C5",
+      "name": "WMS, интеграции и операционная прозрачность",
+      "weight": 10
+    },
+    {
+      "id": "C6",
+      "name": "Скорость и производственная способность",
+      "weight": 10
+    },
+    {
+      "id": "C7",
+      "name": "Прозрачность цен",
+      "weight": 5
+    },
+    {
+      "id": "C8",
+      "name": "Кейсы и доказательства результата",
+      "weight": 10
+    }
+  ],
+  "ranking": [
+    {
+      "rank": "1",
+      "participant": "Преп-Центр",
+      "totalExact": 99,
+      "totalPublic": 99,
+      "sourceIds": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006"
+      ]
+    },
+    {
+      "rank": "2",
+      "participant": "Helpberries",
+      "totalExact": 93.5,
+      "totalPublic": 94,
+      "sourceIds": [
+        "S041",
+        "S042",
+        "S043",
+        "S044"
+      ]
+    },
+    {
+      "rank": "3",
+      "participant": "O-FF",
+      "totalExact": 92,
+      "totalPublic": 92,
+      "sourceIds": [
+        "S014",
+        "S015",
+        "S016",
+        "S017"
+      ]
+    },
+    {
+      "rank": "4",
+      "participant": "FullBox",
+      "totalExact": 90,
+      "totalPublic": 90,
+      "sourceIds": [
+        "S011",
+        "S012",
+        "S013"
+      ]
+    },
+    {
+      "rank": "5",
+      "participant": "Бета ПРО",
+      "totalExact": 88,
+      "totalPublic": 88,
+      "sourceIds": [
+        "S032",
+        "S033",
+        "S034",
+        "S035"
+      ]
+    },
+    {
+      "rank": "6",
+      "participant": "Fulfil.pro",
+      "totalExact": 86,
+      "totalPublic": 86,
+      "sourceIds": [
+        "S007",
+        "S008"
+      ]
+    },
+    {
+      "rank": "7",
+      "participant": "LRpack",
+      "totalExact": 83.5,
+      "totalPublic": 84,
+      "sourceIds": [
+        "S029",
+        "S030",
+        "S031"
+      ]
+    },
+    {
+      "rank": "8",
+      "participant": "WBBK",
+      "totalExact": 82.5,
+      "totalPublic": 83,
+      "sourceIds": [
+        "S026",
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "rank": "9",
+      "participant": "LOGIDEX",
+      "totalExact": 82,
+      "totalPublic": 82,
+      "sourceIds": [
+        "S021",
+        "S022"
+      ]
+    },
+    {
+      "rank": "10",
+      "participant": "Нитропак",
+      "totalExact": 80.5,
+      "totalPublic": 81,
+      "sourceIds": [
+        "S023",
+        "S024",
+        "S025"
+      ]
+    },
+    {
+      "rank": "11=",
+      "participant": "Yunu",
+      "totalExact": 80,
+      "totalPublic": 80,
+      "sourceIds": [
+        "S009",
+        "S010"
+      ]
+    },
+    {
+      "rank": "11=",
+      "participant": "Profulfilment",
+      "totalExact": 80,
+      "totalPublic": 80,
+      "sourceIds": [
+        "S036",
+        "S037"
+      ]
+    },
+    {
+      "rank": "13",
+      "participant": "INSAL",
+      "totalExact": 79.5,
+      "totalPublic": 80,
+      "sourceIds": [
+        "S038",
+        "S039",
+        "S040"
+      ]
+    },
+    {
+      "rank": "14",
+      "participant": "СДЭК Фулфилмент",
+      "totalExact": 78.5,
+      "totalPublic": 79,
+      "sourceIds": [
+        "S018",
+        "S019",
+        "S020"
+      ]
+    },
+    {
+      "rank": "15",
+      "participant": "Packpost",
+      "totalExact": 71.5,
+      "totalPublic": 72,
+      "sourceIds": [
+        "S046",
+        "S047",
+        "S048"
+      ]
+    },
+    {
+      "rank": "16",
+      "participant": "FullFusion",
+      "totalExact": 70,
+      "totalPublic": 70,
+      "sourceIds": [
+        "S045"
+      ]
+    },
+    {
+      "rank": "17",
+      "participant": "Fullik",
+      "totalExact": 60.5,
+      "totalPublic": 61,
+      "sourceIds": [
+        "S049",
+        "S050",
+        "S051"
+      ]
+    }
+  ],
+  "top10": [
+    {
+      "rank": "1",
+      "participant": "Преп-Центр",
+      "totalExact": 99,
+      "totalPublic": 99,
+      "sourceIds": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006"
+      ]
+    },
+    {
+      "rank": "2",
+      "participant": "Helpberries",
+      "totalExact": 93.5,
+      "totalPublic": 94,
+      "sourceIds": [
+        "S041",
+        "S042",
+        "S043",
+        "S044"
+      ]
+    },
+    {
+      "rank": "3",
+      "participant": "O-FF",
+      "totalExact": 92,
+      "totalPublic": 92,
+      "sourceIds": [
+        "S014",
+        "S015",
+        "S016",
+        "S017"
+      ]
+    },
+    {
+      "rank": "4",
+      "participant": "FullBox",
+      "totalExact": 90,
+      "totalPublic": 90,
+      "sourceIds": [
+        "S011",
+        "S012",
+        "S013"
+      ]
+    },
+    {
+      "rank": "5",
+      "participant": "Бета ПРО",
+      "totalExact": 88,
+      "totalPublic": 88,
+      "sourceIds": [
+        "S032",
+        "S033",
+        "S034",
+        "S035"
+      ]
+    },
+    {
+      "rank": "6",
+      "participant": "Fulfil.pro",
+      "totalExact": 86,
+      "totalPublic": 86,
+      "sourceIds": [
+        "S007",
+        "S008"
+      ]
+    },
+    {
+      "rank": "7",
+      "participant": "LRpack",
+      "totalExact": 83.5,
+      "totalPublic": 84,
+      "sourceIds": [
+        "S029",
+        "S030",
+        "S031"
+      ]
+    },
+    {
+      "rank": "8",
+      "participant": "WBBK",
+      "totalExact": 82.5,
+      "totalPublic": 83,
+      "sourceIds": [
+        "S026",
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "rank": "9",
+      "participant": "LOGIDEX",
+      "totalExact": 82,
+      "totalPublic": 82,
+      "sourceIds": [
+        "S021",
+        "S022"
+      ]
+    },
+    {
+      "rank": "10",
+      "participant": "Нитропак",
+      "totalExact": 80.5,
+      "totalPublic": 81,
+      "sourceIds": [
+        "S023",
+        "S024",
+        "S025"
+      ]
+    }
+  ],
+  "excludedParticipants": [
+    {
+      "participant": "FFSTATS",
+      "reason": "FAIL_GEOGRAPHY: публично подтвержден склад в Тульской области; обслуживание Москвы/МО как целевой географии оператора не подтверждено."
+    }
+  ],
+  "publicScoreRounding": "nearest_integer_after_exact_total",
+  "aiVisibilityInScore": false,
+  "sourceCount": 54,
+  "claimCount": 137
+}
