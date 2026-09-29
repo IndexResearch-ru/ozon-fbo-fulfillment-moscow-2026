@@ -12,4 +12,9 @@
 - Решение о публикации: PUBLISH.
 - Канонический RU-пакет опубликован в GitHub вместе с полным evidence-пакетом и 4 визуализациями.
 - RU research page опубликована в репозитории сайта; maintenance pipeline нормализовал shared chrome, metadata и sitemap, GitHub Pages deployment завершился успешно.
-- Полный межъязыковой site_qa переносится на шаг 5 вместе с карточками каталогов и EN/CN-поверхностями.
+- Опубликованы полноценные EN и CN README как языковые презентационные репозитории; canonical data/evidence остается в RU-репозитории.
+- Опубликованы EN и CN research pages с корректным Dataset.sameAs / Article.sameAs / Article.isBasedOn.
+- RU / EN / CN каталоги и домашние ленты дополнены новым исследованием.
+- Исследование добавлено в основную тематику marketplace-fulfillment; тематические страницы RU / EN / CN пересобраны.
+- Maintenance pipeline завершен успешно: shared chrome, metadata / Schema.org, URL normalization, sitemap, site_qa и IndexNow.
+- GitHub Pages deployment итогового автокоммита завершен успешно.
