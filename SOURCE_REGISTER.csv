@@ -1,0 +1,55 @@
+source_id,participant,source_type,title,url,checked_at,source_class,claims_supported,notes
+S001,Преп-Центр,official_company_page,FBO на Ozon,https://prep-center.ru/fbo-ozon/,2026-09-29,primary,"C1,C2,C3,C4,C7","Полный Ozon FBO-цикл; маршруты, график и тарифы доставки; операции подготовки и грузоместа."
+S002,Преп-Центр,official_company_page,Тарифы,https://prep-center.ru/tarify/,2026-09-29,primary,"C2,C3,C4,C7",Актуальный пооперационный прайс и логистика.
+S003,Преп-Центр,official_case,Кейс: 8 400 единиц косметики за 2 дня,https://prep-center.ru/cases/kosmetika-8400-za-2-dnya/,2026-09-29,primary,"C3,C4,C6,C8","8 400 ед.; 14 SKU; 2 дня; 164 короба; 5 FBO, включая 2 Ozon; приемка без замечаний."
+S004,Преп-Центр,official_company_page,FBO-фулфилмент для маркетплейсов,https://prep-center.ru/fulfillment-fbo/,2026-09-29,primary,"C1,C3,C4,C8",Сводка FBO-процесса и нескольких количественных кейсов.
+S005,Преп-Центр,official_company_page,WMS МПФИТ в Преп-Центре,https://prep-center.ru/wms-mpfit-dlya-fulfillmenta/,2026-09-29,primary,C5,Подтверждает использование WMS в операциях.
+S006,Преп-Центр,official_company_page,О компании,https://prep-center.ru/about/,2026-09-29,primary,C6,Склад 1 560 м² и производительность до 20 000 ед. за 12 часов.
+S007,Fulfil.pro,official_company_page,Фулфилмент для Ozon,https://fulfil.pro/fulfilment-dlya-ozon/,2026-09-29,primary,"C1,C2,C3,C4,C5,C6,C7",Полный цикл; ежедневная доставка; 4 600 м²; до 120 000 ед./сутки; WMS; собственный транспорт; базовые ставки.
+S008,Fulfil.pro,official_company_page,Фулфилмент FBS,https://fulfil.pro/fulfilment-po-modeli-fbs/,2026-09-29,primary,C5,Дополнительное подтверждение интеграций/API и операционного учета.
+S009,Yunu,official_company_page,Фулфилмент для Ozon,https://yunu.ru/fulfilment-dlya-ozon,2026-09-29,primary,"C1,C2,C3,C4,C5,C6,C7","FBO/FBS/rFBS, складские операции, личный кабинет и базовые ставки."
+S010,Yunu,official_company_page,Транзитные FBO-поставки Ozon,https://yunu.ru/blog/obnovlenie-funkcionala-rabota-s-tranzitnymi-fbo-postavkami-ozon/,2026-09-29,primary,"C2,C5",API-процесс и управление FBO-поставками Ozon.
+S011,FullBox,official_company_page,Фулфилмент для Ozon,https://fullbox.ru/fulfilment-ozon/,2026-09-29,primary,"C1,C3,C4,C5,C6","FBO/FBS/realFBS, OZON ID, документы, WMS, запуск от 1 рабочего дня."
+S012,FullBox,official_company_page,Фулфилмент FBO,https://fullbox.ru/fulfilment-fbo/,2026-09-29,primary,"C1,C2,C3,C4,C5,C7","Цепочка FBO, слот/доставка, WMS, Честный знак, базовые цены."
+S013,FullBox,official_case_collection,Кейсы клиентов,https://fullbox.ru/cases/,2026-09-29,primary,"C6,C8","Количественные Ozon/WB/FBO-кейсы; 1 200 ед., 18 коробов, 5 дней и другие результаты."
+S014,O-FF,official_company_page,Фулфилмент для Ozon,https://o-ff.ru/fulfilment-ozon,2026-09-29,primary,"C1,C2,C3,C4,C5,C6,C7","Ozon FBO, Москва, WMS/видеофиксация, операции и логистика."
+S015,O-FF,official_company_page,Доставка на склады Ozon 2026,https://o-ff.ru/blog/post/dostavka-na-sklady-ozon-2026,2026-09-29,primary,"C2,C7",Конкретные кластеры и тарифы на паллетную доставку.
+S016,O-FF,official_case_collection,Фулфилмент От Иголки До Слона: кейсы,https://o-ff.ru/blog/post/fulfilment-ot-igolki-do-slona,2026-09-29,primary,"C6,C8","Количественные кейсы: 6 135, 157 455, 100 039, 65 055 ед. и показатели ошибок."
+S017,O-FF,official_company_page,"Ozon: МГТ, КГТ и СГТ, 2026",https://o-ff.ru/blog/post/fulfilment-ozon-mgt-kgt-sgt-2026,2026-09-29,primary,"C3,C6,C7","Сложные категории, Честный знак, кейсы обработки за 24 часа и цены."
+S018,СДЭК Фулфилмент,official_company_page,Фулфилмент для Ozon в Москве,https://ff.cdek.ru/ozon/moskva,2026-09-29,primary,"C1,C2,C3,C5,C7","FBO/FBS/realFBS, 4 склада Москва/МО, тарифы, доставка на Ozon."
+S019,СДЭК Фулфилмент,official_company_page,FBO доставка до Ozon,https://ff.cdek.ru/dostavka-do-marketplejsov-fbo/ozon,2026-09-29,primary,"C1,C2,C4,C7",Подготовка и доставка FBO; публичные базовые тарифы.
+S020,СДЭК Фулфилмент,official_company_page,Фулфилмент для Ozon,https://ff.cdek.ru/ozon,2026-09-29,primary,"C2,C5,C7","Сеть складов, базовые тарифы и интеграционный контекст."
+S021,LOGIDEX,official_company_page,Фулфилмент для Ozon,https://www.logidex.ru/fulfillment-ozon.html,2026-09-29,primary,"C1,C2,C3,C4,C6,C7","Ежедневные отгрузки на склады Ozon, 48 ч, 140+ клиентов, Честный знак, цены."
+S022,LOGIDEX,official_company_page,LOGIDEX,https://logidex.ru/,2026-09-29,primary,"C1,C2,C6,C8","FBO/FBS, ежедневные отгрузки, отзывы и общая операционная фактура."
+S023,Нитропак,official_company_page,Фулфилмент для Ozon,https://nitropack.ru/fulfillment-ozon,2026-09-29,primary,"C1,C2,C3,C4,C5,C6,C7","Склад 1 000 м², собственная WMS, FBO, упаковка/маркировка, цены, доставка."
+S024,Нитропак,official_company_page,FBO на Ozon,https://nitropack.ru/blog/fbo-ozon,2026-09-29,primary,"C1,C3,C5","FBO Ozon, требования и WMS-контекст."
+S025,Нитропак,official_company_page,Доставка,https://nitropack.ru/delivery,2026-09-29,primary,"C2,C4,C7","Организация поставок, грузоместа и логистика."
+S026,WBBK,official_company_page,Фулфилмент для Ozon,https://www.wbbk.club/fulfillment/ozon,2026-09-29,primary,"C1,C3,C5,C6,C7",Полный цикл Ozon; 700 м²; WMS; Честный знак; публичные базовые ставки.
+S027,WBBK,official_company_page,FBO в Москве,https://www.wbbk.club/fulfillment/fbo,2026-09-29,primary,"C1,C2,C3,C4,C5,C6,C7","Короба/паллеты, маршруты Ozon Хоругвино/Саларьево/Новая Рига, WMS и тарифы."
+S028,WBBK,official_company_page,Фулфилмент,https://www.wbbk.club/fulfillment,2026-09-29,primary,C8,Отзывы используются только как слабое доказательство результата.
+S029,LRpack,official_company_page,Фулфилмент для Ozon,https://lrpack.ru/info/fulfillment-dlya-ozon,2026-09-29,primary,"C1,C2,C3,C4,C5,C6",4 склада >5 000 м²; WMS/API Ozon; до 10 000 ед./день; Щербинка/Хоругвино.
+S030,LRpack,official_company_page,Доставка на Щербинку Ozon,https://www.lrpack.ru/blog/dostavka-ozon-shcherbinka,2026-09-29,primary,"C2,C4,C5","Слот, пропуск, документы, доставка и контроль приемки."
+S031,LRpack,official_company_page,LRpack,https://lrpack.ru/,2026-09-29,primary,"C5,C6,C7","WMS, API, складские параметры и ценовой калькулятор/прайс."
+S032,Бета ПРО,official_company_page,Фулфилмент для Ozon,https://betapro.ru/fulfilment/ozon/,2026-09-29,primary,"C1,C2,C3,C4,C5,C6",Полный цикл Ozon; 20 000 м²; >100 000 ед./сутки; 24 часа.
+S033,Бета ПРО,official_company_page,Фулфилмент по модели FBO,https://betapro.ru/fulfilment/fbo-ozon-wildberries/,2026-09-29,primary,"C1,C3,C4,C5,C6","FBO, сложная подготовка, интеграции, документы, Честный знак."
+S034,Бета ПРО,official_company_page,Тарифы FBO,https://betapro.ru/tariffs/ff-fbo/,2026-09-29,primary,"C5,C6,C7","Публичные FBO-тарифы, API, фото/видео, 24 ч, >100 000 ед./сутки."
+S035,Бета ПРО,official_case_collection,Кейсы,https://betapro.ru/blog/cases/,2026-09-29,primary,C8,Количественные кейсы Ozon/логистики; прямых современных FBO-кейсов меньше.
+S036,Profulfilment,official_company_page,Фулфилмент для Ozon,https://profulfilment.ru/ozon,2026-09-29,primary,"C1,C2,C3,C4,C5,C6,C8",100 000+ обработано; 500+ поставок; 99% приемки без замечаний; 24 ч; FBO; собственный транспорт.
+S037,Profulfilment,official_company_page,Profulfilment,https://profulfilment.ru/,2026-09-29,primary,"C1,C2,C5,C6,C7",Электросталь; ежедневные отгрузки; базовые ставки приемки/маркировки/упаковки; прайс по запросу.
+S038,INSAL,official_company_page,Склад для Ozon FBO,https://insal.ru/sklad-dlya-ozon/,2026-09-29,primary,"C1,C2,C3,C4,C5,C8",Москва; полный цикл; маркировка; документы; график; интеграция и кейсы.
+S039,INSAL,official_company_page,Доставка товаров на склад Ozon,https://insal.ru/dostavka-tovarov-na-sklad-ozon/,2026-09-29,primary,"C2,C4,C5,C8","Доставка в любой РЦ Ozon, полный документооборот, контроль этапов, кейс."
+S040,INSAL,official_company_page,Отгрузка товаров для Ozon,https://insal.ru/otgruzka-tovarov-dlya-ozon/,2026-09-29,primary,"C3,C4,C6","Слот, документы/фотофиксация, 50–50 000 SKU."
+S041,Helpberries,official_company_page,Фулфилмент для Ozon,https://helpberries.ru/fulfilment-ozon,2026-09-29,primary,"C1,C3,C4,C5,C7","Полный цикл FBO/FBS, складские операции и цены."
+S042,Helpberries,official_company_page,Доставка на маркетплейсы,https://helpberries.ru/dostavka,2026-09-29,primary,"C2,C3,C4,C5,C7","Москва/МО за 1 день, Ozon, короба/паллеты, документы, статусы, фото/видео, цены."
+S043,Helpberries,official_case,Кейс производителя косметики,https://helpberries.ru/cases/fulfilment-kosmetika-helpberries,2026-09-29,primary,"C3,C5,C6,C8",Ozon/WB; старт 10 дней; 400+ заказов/сутки; FBO/FBS; WMS/API; жидкая продукция.
+S044,Helpberries,official_case_collection,Кейсы Helpberries,https://helpberries.ru/keysy,2026-09-29,primary,"C6,C8","Несколько количественных кейсов: 15 000 ед. без возвратов, рост оборота, 0 пересортицы и др."
+S045,FullFusion,official_company_page,Фулфилмент для Ozon,https://fullfusion.ru/uslugi/fulfilment-ozon,2026-09-29,primary,"C1,C2,C3,C4,C6,C7",Москва; FBO/FBS; ежедневные Ozon-отгрузки Москва/МО; обработка/доставка с базовыми ценами.
+S046,Packpost,official_company_page,Подготовка поставок FBO,https://fullfilment.su/fbo/,2026-09-29,primary,"C1,C2,C3,C4,C7","Приемка, маркировка, упаковка, короба/паллеты, оформление и доставка на Ozon."
+S047,Packpost,official_company_page,Логистика,https://fullfilment.su/logistika/,2026-09-29,primary,"C2,C4,C7",Собственный транспорт и доставка на маркетплейсы.
+S048,Packpost,official_company_page,Цены,https://fullfilment.su/ceny/,2026-09-29,primary,C7,Подробный публичный прайс на складские операции.
+S049,Fullik,official_company_page,Фулфилмент для Ozon,https://fullik.ru/ozon,2026-09-29,primary,"C1,C2,C3,C4","FBO/FBS; подготовка и доставка на склады Ozon Московского региона; упаковка, маркировка, контроль."
+S050,Fullik,official_company_page,FULLIK,https://fullik.ru/,2026-09-29,primary,"C1,C3,C4,C6","Полный складской цикл, обработка от 2 часов, доставка, 99,8% заявленной точности."
+S051,Fullik,official_company_page,Маркировка,https://fullik.ru/markirovka,2026-09-29,primary,C3,Штрихкоды и Честный знак со сканированием.
+S052,FFSTATS,official_company_page,Фулфилмент для Ozon,https://ffstats.ru/ffozon,2026-09-29,primary,"ELIGIBILITY,C1,C3,C5,C6,C7","FBO/Ozon и 20 000 м², но опубликованный склад указан в Тульской области, д. Натальинка."
+S053,FFSTATS,official_company_page,FBO,https://ffstats.ru/fbo,2026-09-29,primary,"ELIGIBILITY,C3,C6","FBO; обработка до 3 суток; склад в Тульской области, д. Натальинка."
+S054,FFSTATS,official_company_page,Доставка на склад Ozon,https://ffstats.ru/dostavkaozon,2026-09-29,primary,"ELIGIBILITY,C2","Доставка Ozon заявлена, но публичная страница снова указывает склад в Тульской области; обслуживание Москвы/МО как географии оператора не подтверждено."
