@@ -4,7 +4,7 @@
 **ID темы:** PREP-T016  
 **Version:** 1.0.0  
 **Cutoff:** 2026-09-29  
-**Step 4 RU package status:** prepared
+**Step 4 RU package status:** published and source-checked
 
 ## Research QA
 
@@ -24,7 +24,7 @@
 - [x] FACT_CLAIM_MAP.csv содержит 137 проверяемых утверждений: 136 ячеек C1–C8 для 17 допущенных участников и отдельную проверку допуска FFSTATS.
 - [x] Все source_id в FACT_CLAIM_MAP.csv существуют и принадлежат соответствующим участникам.
 - [x] Исправлено техническое расхождение CL039: источник Бета ПРО C7 = S034.
-- [x] LIMITATIONS.md, CONFLICT_OF_INTEREST.md и SPONSORSHIP_DISCLOSURE.md синхронизированы с финальным evidence pass.
+- [x] LIMITATIONS.md, CONFLICT_OF_INTEREST.md и SPONSORSHIP_DISCLOSURE.md синхронизированы с финальной проверкой доказательств.
 
 ## Arithmetic QA
 
@@ -34,20 +34,22 @@
 - [x] SCORE_MATRIX.csv и FACT_CLAIM_MAP.csv согласованы.
 - [x] Порядок строится по total_exact.
 - [x] Публичное округление применяется только после точного расчета.
-- [x] Равенство Yunu и Profulfilment 80,0 сохранено без нового правило разрешения равенства.
+- [x] Равенство Yunu и Profulfilment 80,0 сохранено без нового правила разрешения равенства.
 - [x] Калибровочная серия = 5 000 итераций, начальное значение генератора 20260929, ±20%.
 
 ## Publication package QA
 
-- [x] RU README обновлен по финальному scoring.
+- [x] Канонический RU GitHub-репозиторий опубликован.
+- [x] Полный RU README опубликован вместе с evidence-пакетом и 4 содержательными SVG-визуализациями.
 - [x] RESULTS.json, FAQ_DATA.json, metadata.json и CSV синхронизированы.
-- [x] METHODOLOGY.md соответствует зафиксированные веса от 29.09.2026.
-- [x] Подготовлены 4 содержательные SVG-визуализации из опубликованных данных/методики.
-- [ ] RU canonical GitHub repo опубликован.
-- [ ] RU research page опубликована.
-- [ ] Фактический GitHub-рендер README проверен.
-- [ ] Публичная RU research page проверена после deployment.
+- [x] METHODOLOGY.md соответствует зафиксированным весам от 29.09.2026.
+- [x] RU research page добавлена в репозиторий сайта и прошла автоматическую нормализацию shared chrome, metadata и sitemap.
+- [x] GitHub Pages deployment для автонормализованного коммита завершен успешно.
+- [x] Source QA RU research page: 1 H1, 10 строк рейтинга, 8 критериев, 10 FAQ, без шаблонных плейсхолдеров, без активных ссылок на прямых конкурентов.
+- [x] RU Dataset.sameAs и Article.sameAs указывают на канонический RU data/evidence repo.
+- [ ] Полный site_qa намеренно остается незакрытым до шага 5: текущие ошибки относятся к отсутствующим карточкам каталогов и языковым mapping RU/EN/CN, которые создаются на шаге 5.
+- [ ] Фактический браузерный live-рендер GitHub README и RU research page проверяется в полном live QA шага 6.
 
 ## Следующие шаги
 
-EN/CN, каталоги, тематики и полный maintenance pipeline относятся к шагу 5. Полный live QA и единый Google-реестр относятся к шагу 6.
+EN/CN, карточки каталогов, тематика и полный maintenance pipeline относятся к шагу 5. Полный live QA и единый Google-реестр относятся к шагу 6.
