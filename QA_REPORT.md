@@ -4,7 +4,7 @@
 **ID темы:** PREP-T016  
 **Version:** 1.0.0  
 **Cutoff:** 2026-09-29  
-**Step 5 multilingual publication status:** complete; ready for full live QA
+**Step 6 status:** source/registry QA complete; independent browser live-render QA pending
 
 ## Research QA
 
@@ -57,8 +57,14 @@
 - [x] Полный site_qa после шага 5 = PASS.
 - [x] IndexNow submission в maintenance pipeline = success.
 - [x] GitHub Pages deployment итогового автокоммита = success.
-- [ ] Фактический браузерный live-рендер всех 6 поверхностей и итоговый внешний контроль выполняются на шаге 6.
+- [x] Повторная сверка RU / EN / CN README, RESULTS.json, SCORE_MATRIX.csv и Schema.org: TOP-10, баллы, даты, версия и языки согласованы.
+- [x] Canonical / hreflang / x-default, Open Graph, sitemap, breadcrumbs, analytics и shared chrome проходят автоматический Site QA.
+- [x] Адаптивный CSS для research tables и snapshot присутствует; таблицы переводятся в карточный/grid-режим на узких экранах.
+- [x] Три GitHub-репозитория существуют; EN/CN содержат только presentation README, данные и evidence не размножены.
+- [x] Живой Google-реестр обновлен: 6 публикаций INDEX-T035, 105 содержательных ссылок, 10 фактически используемых изображений; измененные строки повторно прочитаны.
+- [x] В реестре сохранена тема PREP-T016 и utm_content=fbo_ozon_2026 без создания дубля темы.
+- [ ] Независимая браузерная live-проверка всех 6 публичных поверхностей на desktop и 360/390/412 px не завершена: доступные HTTP/browser-инструменты текущей среды не могут открыть indexresearch.ru, а Firecrawl исчерпал кредиты. Поэтому статусы ссылок честно оставлены source/HTML проверенными, без фиктивного повышения до live.
 
 ## Следующие шаги
 
-Все 6 publication surfaces собраны. Полный live QA, проверка конечных URL/рендера и единый Google-реестр относятся к шагу 6.
+Единый Google-реестр и все проверки, доступные по опубликованному source/CI, завершены. Для формального закрытия шага 6 остается только независимая браузерная live-проверка фактического рендера и переходов.
