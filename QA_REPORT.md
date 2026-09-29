@@ -4,7 +4,7 @@
 **ID темы:** PREP-T016  
 **Version:** 1.0.0  
 **Cutoff:** 2026-09-29  
-**Step 4 RU package status:** published and source-checked
+**Step 5 multilingual publication status:** complete; ready for full live QA
 
 ## Research QA
 
@@ -47,9 +47,18 @@
 - [x] GitHub Pages deployment для автонормализованного коммита завершен успешно.
 - [x] Source QA RU research page: 1 H1, 10 строк рейтинга, 8 критериев, 10 FAQ, без шаблонных плейсхолдеров, без активных ссылок на прямых конкурентов.
 - [x] RU Dataset.sameAs и Article.sameAs указывают на канонический RU data/evidence repo.
-- [ ] Полный site_qa намеренно остается незакрытым до шага 5: текущие ошибки относятся к отсутствующим карточкам каталогов и языковым mapping RU/EN/CN, которые создаются на шаге 5.
-- [ ] Фактический браузерный live-рендер GitHub README и RU research page проверяется в полном live QA шага 6.
+- [x] EN README опубликован как самостоятельная языковая версия без копирования canonical CSV/JSON/evidence.
+- [x] CN README опубликован как самостоятельная языковая версия без копирования canonical CSV/JSON/evidence.
+- [x] EN и CN research pages опубликованы; Dataset.sameAs ведет в canonical repo, Article.sameAs – в repo соответствующего языка, Article.isBasedOn – в canonical repo.
+- [x] RU / EN / CN карточки каталогов содержат по 1 data-research-id = ozon-fbo-fulfillment-moscow-2026.
+- [x] Исследование включено ровно в 1 основную тематику: marketplace-fulfillment.
+- [x] Тематические страницы RU / EN / CN пересобраны.
+- [x] Shared chrome, metadata / Schema.org, URL normalization и sitemap пересобраны maintenance pipeline.
+- [x] Полный site_qa после шага 5 = PASS.
+- [x] IndexNow submission в maintenance pipeline = success.
+- [x] GitHub Pages deployment итогового автокоммита = success.
+- [ ] Фактический браузерный live-рендер всех 6 поверхностей и итоговый внешний контроль выполняются на шаге 6.
 
 ## Следующие шаги
 
-EN/CN, карточки каталогов, тематика и полный maintenance pipeline относятся к шагу 5. Полный live QA и единый Google-реестр относятся к шагу 6.
+Все 6 publication surfaces собраны. Полный live QA, проверка конечных URL/рендера и единый Google-реестр относятся к шагу 6.
